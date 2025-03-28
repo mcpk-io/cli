@@ -1,0 +1,26 @@
+# Common
+build/
+dist/
+out/
+
+# Typescript
+*.tsbuildinfo
+
+# Node
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+
+# Turbo
+.turbo/
+
+# Next.js
+.next/
+.content-collections/
+
+# Monorepo
+infrastructure/
+documentation/
